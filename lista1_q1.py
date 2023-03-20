@@ -19,5 +19,4 @@ alex = turtle.Turtle()
 for j in range(5):
     drawSquare(alex, 20 + 20*j)
 
-def sum_to(n):
-    return (1+n)*(n/2)
+wn.mainloop()

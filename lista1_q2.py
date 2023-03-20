@@ -17,6 +17,6 @@ def draw_poly(t, n, sz):
         t.forward(sz)
         t.left(360/n)
 
-draw_poly(alex, 5, 50)
+draw_poly(alex, 8, 50)
 
 wn.mainloop()
